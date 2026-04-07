@@ -194,4 +194,8 @@ For questions or feedback, reach out at: [qianc62@gmail.com](mailto:qianc62@gmai
 
 ## 🙏 Acknowledgments
 
+<<<<<<< HEAD
 This project is originally developed by [OpenBMB / Tsinghua NLP Lab](http://nlp.csai.tsinghua.edu.cn/) and contributors. This fork is maintained by [@rohitshivhare21](https://github.com/rohitshivhare21).
+=======
+This project is originally developed by [OpenBMB / Tsinghua NLP Lab](http://nlp.csai.tsinghua.edu.cn/) and contributors. This fork is maintained by [@rohitshivhare21](https://github.com/rohitshivhare21).
+>>>>>>> 6d7818c504959b8ba0d4f6ab52a30b3372ab3f33
